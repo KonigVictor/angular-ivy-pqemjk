@@ -1,0 +1,25 @@
+.menu{
+  position: static;
+  position: fixed;
+}
+.img{
+  height: 2.5rem;
+}
+.mat-tab-group {
+margin-bottom: 48px;
+}
+.tabs{
+  position: fixed;
+  margin-top: 10;
+  margin-left: 55%;
+}
+.lista{
+  list-style-type: none;
+  display: inline;
+  margin-left: 2rem;
+  margin-top: 10%;
+}
+nav{
+  margin-top: 1.2%;
+  margin-left: 60%;
+}
